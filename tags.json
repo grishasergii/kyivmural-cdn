@@ -1,0 +1,18 @@
+[
+    {
+        "Key": "Name",
+        "Value": "Kyivmural-cdn"
+    },
+    {
+        "Key": "Version",
+        "Value": "0.1.0"
+    },
+    {
+        "Key": "Application",
+        "Value": "Kyivmural"
+    },
+    {
+        "Key": "Component",
+        "Value": "static storage"
+    }
+]
